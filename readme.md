@@ -5,3 +5,8 @@
 
 # Dependencies
 1. [execute version 0.2.11](https://docs.rs/execute/latest/execute/)
+
+# Why? 
+I wrote this to solve a very specific problem I have : 
+1. My keyboard have calculator button that when pressed , launch Windows calculator (It link to C:\Windows\System32\calc.exe by default)
+2. I want to make it launch [Qalculate](https://en.wikipedia.org/wiki/Qalculate) instead.
